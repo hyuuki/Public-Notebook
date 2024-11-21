@@ -7,4 +7,4 @@ Instead, link to the original Github repository and, and remember to cite and gi
    An introduction to a simple sentiment analysis using Scikit Learn, PySastrawi.
 
    How to cite (APA):
-   Adikara, P. P. (2025, October). Public Notebook - Sentiment Analysis - Indonesian. https://github.com/hyuuki/Public-Notebook/tree/main/Sentiment%20Analysis
+   Adikara, P. P. (2025, October). _Public Notebook - Sentiment Analysis - Indonesian_. https://github.com/hyuuki/Public-Notebook/tree/main/Sentiment%20Analysis
